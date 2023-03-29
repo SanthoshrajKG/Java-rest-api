@@ -32,6 +32,8 @@ Navigate to http://localhost:8080/servers/{serverId} with a DELETE method to del
 ![image](https://user-images.githubusercontent.com/87854476/227704101-7cc5a033-62a1-495b-abe6-6dec0abe3089.png)
 ![image](https://user-images.githubusercontent.com/87854476/227704133-97990768-d03f-4130-8b7e-471ff0b3d6bf.png)
 ![image](https://user-images.githubusercontent.com/87854476/227704165-f9fdec08-7a75-42bb-800b-b4a299623e0e.png)
+![image](https://user-images.githubusercontent.com/87854476/228553620-7473dcd8-60d1-4300-86c8-8166ec9f2d58.png)
+
 
 
 
